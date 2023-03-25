@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm <a href="https://www.linkedin.com/in/niko-berd/">Mohamed Ibrahim Fetyany</a></h1>
+
+<div align="left">Highly motivated and dedicated iOS and Android developer with 5+ years of experience in designing, developing, and deploying mobile applications. Proficient in multiple programming languages, including Swift, SwiftUI, Java, and Kotlin. Adept in using various software development tools and frameworks, including Xcode, Android Studio, Git, and Firebase. Passionate about staying up-to-date with emerging trends in mobile technology and implementing them in real-world applications.. <br>
+
 
 <!--
 **MIF50/MIF50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
